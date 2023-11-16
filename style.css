@@ -1,9 +1,11 @@
+@import url('bevellier.css');
+
 body,html {
     overflow-x:hidden;
 }
 body {
     margin:0;
-    font-family: serif;
+    font-family: 'Bevellier-Semibold';
     color:#FFF;
 }
 section {
