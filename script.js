@@ -16,7 +16,7 @@ const colors = [
 ];
 
 let panelCreated = false;
-let panelNum = 2;
+let panelNum = 3;
 let panelIncrement = 1 / (panelNum - 1);
 
 const createPanel = (index) => {
